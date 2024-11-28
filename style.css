@@ -1,0 +1,64 @@
+.w-100-height {
+  height: 90vh;
+  width: 100%;
+}
+
+/* Carousel */
+
+.carousel-item {
+  min-height: 300px;
+}
+
+.carousel-caption {
+  text-align: left;
+  margin-bottom: 200px;
+  z-index: 2;
+}
+
+.carousel-caption p {
+  text-align: left;
+}
+
+.carousel-caption a.btn {
+  text-align: left;
+}
+
+.carousel1 a {
+  text-align: left;
+}
+
+.carousel-caption h5 {
+  text-transform: uppercase;
+  font-size: 40px;
+  text-align: left;
+}
+
+.carousel-inner::before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1;
+}
+
+/* Popular */
+
+.popular {
+  margin-top: 100px;
+}
+
+/* Card */
+.bottomsection {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+/* Responsive */
+@media (max-width: 1000px) {
+  .footertop {
+    text-align: center;
+  }
+}
