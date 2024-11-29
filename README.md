@@ -19,10 +19,11 @@ The **Emartech Building** website is designed to provide a sleek and professiona
 
 ## 🖥️ Demo
 You can view a demo of the project by visiting the following link:  
-[Live Demo](#) *(Link will go here once hosted)*
+*https://ozanemartech.netlify.app/*
 
 ## Preview
-![Emartech Building Preview](#) *(Add image of your project here)*
+![site1](https://github.com/user-attachments/assets/6260ffe8-6f3d-403f-815d-35c735510945)
+
 
 ## 📧 Contact
 For any questions or feedback, feel free to contact:  
